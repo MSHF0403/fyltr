@@ -23,7 +23,7 @@ OPTION:
   -v, --version          現在のバージョンを表示
 ```
 ## About
-
+```text
 開発者
 MSHF0403
 
@@ -35,3 +35,4 @@ GNU General Public License v2.0
 
 ### バージョン履歴
 v0.1.0：初期バージョン
+```
