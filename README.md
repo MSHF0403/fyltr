@@ -5,6 +5,7 @@
 ![Rust](https://img.shields.io/badge/Rust-CLI-orange)
 [![License](https://img.shields.io/badge/license-GPLv2-blue)](LICENSE)
 ![Version](https://img.shields.io/badge/version-0.1.0-green)
+![Coverage Status](https://coveralls.io/)
 
 ## Overview
 fyltimeは、ディレクトリ内のファイルを走査し、更新日時に基づいてファイルを絞り込む軽量なCLIツールです。  
